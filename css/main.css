@@ -1,0 +1,222 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: ;
+	height: 0 auto;
+}
+
+.header {
+	background: #EA9B52;
+	padding-top: 52px;
+}
+
+.header a,li {
+	color: black;
+	text-decoration: none;
+}
+
+.header li {
+	font-size: 26px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.header a {
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+.menu {
+	display: flex;
+}
+.nav {
+	display: flex;
+	align-items: center;
+}
+.logo {
+	margin-right: 57px;
+	margin-left: 215px;
+	margin-top:52px;
+}
+.tell {
+	margin-left: 58px;
+	display: flex;
+	margin-right: 257px;
+	margin-top: 66px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 24px;
+}
+.telllogo {
+	width: 20px;
+	height: 20px;
+	margin-right: 7px;
+	margin-left: -30px;
+}
+
+.text {
+	list-style-type: none;
+	margin-right: 58px;
+	margin-top: 60px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 26px;
+	line-height: 32px;
+}
+
+.offer {
+	margin-left: 216px;
+	margin-top: 179px;
+	text-align: justify;
+}
+
+.offer1 {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 45px;
+	line-height: 55px;
+	text-align: ;
+}
+
+.offer2 {
+	margin-top: 65px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 44px;
+}
+
+.fon {
+	display: block;
+	margin-left: 853px;
+	margin-top: -446px;
+	margin-bottom: -5px;
+} 
+
+.fon2 {
+	background: #E19854;
+}
+
+.about {
+	background: #F3AB68; 
+}
+
+.katalog {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 40px;
+	line-height: 49px;
+	margin-left: 267px;
+	margin-bottom: 48.96px;
+	padding-top: 60px;
+}
+
+.catalog {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 40px;
+	line-height: 49px;
+	margin-top: 60px;
+	margin-left: 267px;
+	margin-bottom: 49px;
+	margin-left: 267px;
+}
+.kiottext {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 30px;
+	line-height: 100px;
+	background: #fc9f1e;
+	padding-left: 266px;
+}
+
+.kiot1 {
+	margin-left:267px;
+	margin-right:56px;
+	margin-top: 83.96px;
+}
+
+.kiot2 {
+	margin-right: 56px;
+}
+
+.prestiltext {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 30px;
+	line-height: 100px;
+	background: #fc9f1e;
+	padding-left: 266px;
+	margin-top: 84px;
+}
+
+.prestil1 {
+	margin-left: 267px;
+	margin-right: 54px;
+	margin-top: 84px;
+}
+
+.prestil3 {
+	margin-top: 69px;
+	margin-left: 218px;
+}
+
+.jertovtext {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 30px;
+	line-height: 100px;
+	background: #fc9f1e;
+	margin-top: 64px;
+	padding-left: 266px;
+}
+
+.jertov1 {
+	margin-left: 267px;
+	margin-top: 84px;
+	margin-right: 54px;
+}
+
+.jertov3 {
+	margin-left: 218px;
+	margin-top: 67px;
+}
+
+.prestil120text {
+	background: #fc9f1e;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 30px;
+	line-height: 100px;
+	margin-top: 64px;
+	padding-left: 266px;
+}
+
+.prestil1201 {
+	margin-left: 267px;
+	margin-top: 84px;
+	margin-right: 54px;
+}
+
+.prestil1203 {
+	margin-top: 67px;
+	margin-left: 218px;
+	margin-bottom: -5px;
+}
+
+
+
